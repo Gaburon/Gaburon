@@ -26,14 +26,10 @@
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
  
 <details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats"> </summary>  
