@@ -1,7 +1,7 @@
 
 - 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on software developmen, i wanna learn more about this world
-- 📫 How to reach me: Search me on linkedin as : https://www.linkedin.com/in/andrés-piedrahíta-365b56264/ or in facebook as: https://www.facebook.com/andres.piedrahitaovalle :D
+- 📫 How to reach me: Search me on linkedin as : https://www.linkedin.com/in/andrés-piedrahíta :D
 # - 👋 Hi, I’m Andres Ovalle also kwnow as @Gaburon <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
  
  ## About me 
@@ -14,8 +14,7 @@
 - :earth_americas: I'm from Bogotá - Colombia.
 - :video_game: I like to play video games.
 - :gem: I love to customize everything lol.
-- 🌱 I’m currently learning js, Next.js and Node.js.
-- 🎿 Hobbies other than coding : Playing video games, Watch movies, Music 🤔🤖..
+- 🌱 I’m currently React.
 
 ## Tech & Tools Preference
 
