@@ -14,7 +14,7 @@
 - :earth_americas: I'm from Bogotá - Colombia.
 - :video_game: I like to play video games.
 - :gem: I love to customize everything lol.
-- 🌱 I’m currently React.
+- 🌱 I’m currently learning React.
 
 ## Tech & Tools Preference
 
