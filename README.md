@@ -10,7 +10,7 @@
 
 :heart: Programming | :black_heart: Music | :blue_heart: Movies
 
-- 💻 I am a back-end Developer.
+- 💻 I am a front-end Developer.
 - :earth_americas: I'm from Bogotá - Colombia.
 - :video_game: I like to play video games.
 - :gem: I love to customize everything lol.
